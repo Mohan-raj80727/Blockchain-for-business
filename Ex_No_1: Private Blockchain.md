@@ -1,6 +1,6 @@
-
-# EX.NO-1
-CREATING A PRIVATE BLOCKCHAIN
+# EX.NO-1 :CREATING A PRIVATE BLOCKCHAIN
+# NAME : MOHANRAJ.S
+# REG NO : 212224100036
 ## AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
